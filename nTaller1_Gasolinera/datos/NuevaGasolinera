@@ -1,0 +1,13 @@
+tipo:gasolina premium:1000:110.0
+tipo:Gasolina Economica:100:2.0
+tipo:Gasolina extra:600:100.0
+tipo:Gasolina regular:500:4.0
+surtidor:Juan:gasolina premium:0.0:Gasolina Economica:0.0:Gasolina extra:0.0:Gasolina regular:0.0
+surtidor:Laura:gasolina premium:0.0:Gasolina Economica:0.0:Gasolina extra:0.0:Gasolina regular:0.0
+surtidor:Tatiana:gasolina premium:0.0:Gasolina Economica:0.0:Gasolina extra:0.0:Gasolina regular:0.0
+surtidor:Diego:gasolina premium:0.0:Gasolina Economica:0.0:Gasolina extra:0.0:Gasolina regular:0.0
+empleado:Laura:0
+empleado:Diego:0
+empleado:Tatiana:0
+empleado:Juan:0
+empleado:Sebastian:0
